@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 60f1063f3c3d58e4096e1d8aa38b4a17
+timeCreated: 1453302169
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - particle: {fileID: 128536, guid: b358ca2b994d6544ea0340150088fe41, type: 2}
+  - blackSmoke: {fileID: 182194, guid: d30dd45203f90c14e89c3ad81ad5b272, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
